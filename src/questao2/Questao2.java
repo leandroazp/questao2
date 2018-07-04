@@ -15,7 +15,16 @@ public class Questao2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+        int valor = 0;
+        String genero = null;
+        String cor;
+        try {
+        if (genero == "masculino");
+        throw new Exception (valor=valor*3);
+        } else {
+        }
+    }catch (Exception e){
     
+    }
+    }
 }
